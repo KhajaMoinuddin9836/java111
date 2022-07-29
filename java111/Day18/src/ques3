@@ -1,0 +1,7 @@
+
+
+Q3) What is the difference between List and Set ?
+
+==> List:- List is an ordered sequence of elements. user can easily access element present at specific index.
+
+    Set:- Set is an unordered list of elements. Set does not have duplicate elements.

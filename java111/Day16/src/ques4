@@ -1,0 +1,13 @@
+
+
+Q4) Explain the difference between Checked and Unchecked exception?
+
+==> checked exception:
+    * They occur at compile time.
+    * The compiler checks for a checked exception.
+    * The JVM requires that the exception be caught and handled.
+
+==> unchecked exception:
+    * These exceptions occur at runtime.
+    * The compiler doesn't check for these kinds of exceptions.
+    * he JVM doesn't requires the exception to be caught and handles.

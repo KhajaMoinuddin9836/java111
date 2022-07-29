@@ -1,0 +1,6 @@
+
+
+  Explain about Markup interface?
+
+==> A marker interface is an interface that has no methods or constants inside it. it provides run-time type information
+    about objects, so the compiler and JVM have additional information about the object.

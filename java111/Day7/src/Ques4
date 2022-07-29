@@ -1,0 +1,5 @@
+
+
+Why is multiple inheritance not supported in java at class level ?
+
+==>Java does not support multiple inheritance as it can give problems in applications like diamond problem.

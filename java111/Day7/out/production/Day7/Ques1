@@ -1,0 +1,8 @@
+
+
+What is the use of ‘this’ and ‘super’ keywords in java ?
+explain with an example.
+
+==>this keyword is used to call inside class constructor , with this we cannot call outside class constructor.
+
+==>super keyword is used to call outside of class constructor it means immediate class constructor.
