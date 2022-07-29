@@ -1,0 +1,30 @@
+
+
+
+
+Explain the difference between overloading and overriding methods with an example?
+
+ans==> *overloading==> It helps to increase readability of the program. overloading method is a compile time polymorphism. It occurs within the class.
+        example:
+        class Overloading {
+            static int add(int a, intb) {
+                return a+b;
+            }
+            static int add(int a,int b, int c){
+                return a+b+c;
+            }
+        }
+
+       *overriding==> overriding method is a run time polymorphism. It is performed two class inheritance relationships. Method overriding always needs inheritance.
+       example:
+       class Animal{
+            void running() {
+            System.out.println("running");
+            }
+            class tiger extends Animal{
+
+                void running() {
+                    System.out,println("sleeping");
+                }
+            }
+       }
