@@ -1,0 +1,16 @@
+
+
+Q2==> String is immutable because of security and concurrency, synchronize caching and loading.
+
+* Difference between String and String Builder.
+
+==> StringBuilder is used to represent a mutable string of characters. Mutable means the string which can be changed.
+    So String objects are immutable but StringBuilder is the mutable type. It will not create a new modified instance
+    of the current string.
+
+* Some of the methods of String Class.
+==> 1.toLowerCase()
+    2.toUpperCase()
+    3.subSequence()
+    4.subString()
+    5.toString()
